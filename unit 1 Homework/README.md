@@ -75,7 +75,7 @@ We recommend that you use the case study template below in order to focus your r
 **Case Study Template**
 
 ```
-# TITLE
+                       Coinbase  
 
 ## Overview and Origin
 
