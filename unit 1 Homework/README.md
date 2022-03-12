@@ -1,6 +1,5 @@
 # Unit 1 Homework Assignment: Coinbase
 
-```
                       
     Coinbase, a cryptocurrency platform that allows users to access the larger crypto economy, was launched in 2012 by Brian Armstrong and Fred Ehrsam with the goal of allowing the world to have more economic freedom. Coinbase was founded on the principle that anyone, everywhere, should be able to safely access Bitcoin. It started out with a service that allowed users to buy and sell bitcoins using a connected bank account as a payment mechanism. Since then, it has grown to supply the crypto economy with end-to-end financial infrastructure and technology. The company had grown into the world's largest cryptocurrency exchange by volume by early 2021, serving as a platform for multiple digital currencies and offering a variety of products for retail and institutional cryptocurrency investors.
 
